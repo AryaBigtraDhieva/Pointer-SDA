@@ -1,8 +1,8 @@
 #include <iostream>
 #include <string>
 using namespace std;
-//ZhafirahNurShadrina
-//G1A01028
+//AryaBigtraDhieva
+//G1A01088
 
 int main() 
 {
